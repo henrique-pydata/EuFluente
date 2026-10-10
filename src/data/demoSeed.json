@@ -1,0 +1,26 @@
+{
+  "vocabulary": [
+    {"section_key":"verbs","word":"know","translation":"saber","base_form":"know","past_simple":"knew","past_participle":"known","mastery_level":2,"past_mastery_level":1,"notes":"Exemplo de verbo irregular."},
+    {"section_key":"verbs","word":"learn","translation":"aprender","base_form":"learn","past_simple":"learned","past_participle":"learned","mastery_level":3,"past_mastery_level":3,"notes":"Verbo regular."},
+    {"section_key":"verbs","word":"write","translation":"escrever","base_form":"write","past_simple":"wrote","past_participle":"written","mastery_level":2,"past_mastery_level":2,"notes":"Exemplo com três formas diferentes."},
+    {"section_key":"nouns","word":"answer","translation":"resposta","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":3,"past_mastery_level":3,"notes":""},
+    {"section_key":"nouns","word":"attention","translation":"atenção","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":2,"past_mastery_level":2,"notes":""},
+    {"section_key":"nouns","word":"journey","translation":"jornada; viagem","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":1,"past_mastery_level":1,"notes":""},
+    {"section_key":"adjectives","word":"available","translation":"disponível","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":2,"past_mastery_level":2,"notes":""},
+    {"section_key":"adjectives","word":"reliable","translation":"confiável","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":1,"past_mastery_level":1,"notes":""},
+    {"section_key":"adverbs","word":"usually","translation":"geralmente","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":1,"past_mastery_level":1,"notes":""},
+    {"section_key":"prepositions","word":"through","translation":"através de; por meio de","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":2,"past_mastery_level":2,"notes":""},
+    {"section_key":"phrasal-verbs","word":"give up","translation":"desistir","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":1,"past_mastery_level":1,"notes":""},
+    {"section_key":"expressions","word":"by the way","translation":"a propósito","base_form":null,"past_simple":null,"past_participle":null,"mastery_level":3,"past_mastery_level":3,"notes":"Usada para introduzir uma observação."}
+  ],
+  "contents": [
+    {"section_key":"contents","title":"Present Simple","content_area":"Gramática","notes":"Usado para hábitos, rotinas e fatos gerais.","mastery_level":2},
+    {"section_key":"contents","title":"Question words","content_area":"Gramática","notes":"Who, what, where, when, why e how.","mastery_level":3},
+    {"section_key":"contents","title":"Past Simple","content_area":"Tempos verbais","notes":"Ações concluídas no passado.","mastery_level":1},
+    {"section_key":"contents","title":"Phrasal verbs","content_area":"Vocabulário","notes":"Combinações de verbo e partícula.","mastery_level":0}
+  ],
+  "settings": {
+    "overall_word_goal": 1000,
+    "section_goals": {"contents":53,"verbs":200,"nouns":300,"adjectives":200,"adverbs":100,"prepositions":80,"phrasal-verbs":150,"expressions":150}
+  }
+}
